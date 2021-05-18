@@ -1,0 +1,12 @@
+[package]
+name = "blackjack_sim"
+version = "0.1.0"
+authors = ["Chris O'Donnell <chris.bowdoin@gmail.com>"]
+
+[dependencies]
+csv = "1.0.0-beta.4"
+rand = "0.3"
+# rocket = "0.4.0"
+# serde = "1"
+# serde_derive = "1"
+time = "0.1"
